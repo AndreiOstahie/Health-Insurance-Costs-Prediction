@@ -1,0 +1,270 @@
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2503802] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2503802] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.427s
+user	1m20.561s
+sys	0m2.076s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2503839] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2503839] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.863s
+user	1m21.306s
+sys	0m3.083s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2503876] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2503876] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.498s
+user	1m20.728s
+sys	0m2.239s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2503914] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2503914] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.782s
+user	1m21.225s
+sys	0m2.881s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2503950] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2503950] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.921s
+user	1m21.460s
+sys	0m3.148s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2503987] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2503987] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.973s
+user	1m21.532s
+sys	0m3.270s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2504026] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2504026] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.806s
+user	1m21.461s
+sys	0m2.973s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2504064] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2504064] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.873s
+user	1m21.358s
+sys	0m3.128s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2504101] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2504101] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.934s
+user	1m21.491s
+sys	0m3.330s
+--------------------------------------------------------------------------
+WARNING: There is at least non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: nehalem-wn15
+--------------------------------------------------------------------------
+[nehalem-wn15.grid.pub.ro:2504139] 3 more processes have sent help message help-mpi-btl-openib.txt / no active ports found
+[nehalem-wn15.grid.pub.ro:2504139] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Coefs:
+ -13346.409
+  264.258
+ -288.534
+  339.909
+  410.236
+ 23832.378
+ 1263.148
+  823.251
+  -28.142
+
+Mean Absolute Error: 4039.339000
+
+real	0m22.742s
+user	1m21.258s
+sys	0m2.773s
+
